@@ -7,7 +7,7 @@ This project predicts the survival chances of passengers on the **Titanic** usin
 
 ## 📂 Dataset
 - **File Used**: `titanic.csv`
-- **Source**: [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic)
+- **Source**: The dataset is available as `titanic.csv` in this repository.
 - The dataset includes features such as:
   - `Pclass` (Ticket class)
   - `Sex` (Male/Female)
@@ -26,7 +26,7 @@ This project predicts the survival chances of passengers on the **Titanic** usin
 ## ⚙️ Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/titanic-survival-prediction.git
+   git clone https://github.com/Atharvdanej07/titanic-survival-prediction.git
 
    
 
